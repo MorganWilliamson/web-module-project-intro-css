@@ -21,3 +21,12 @@ vertical-align: baseline;
 }
 /* FULL CSS BELOW */
 
+/* HEADER STYLING */
+.HSimage{
+    height: 100px;
+    width: 100px;
+    /* TEMPORARILY SIZING WITH PIXELS TO MAKE PAGE READABLE, EDIT LATER */
+}
+
+/* END HEADER STYLING */
+
