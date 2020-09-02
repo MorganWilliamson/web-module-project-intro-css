@@ -30,3 +30,17 @@ vertical-align: baseline;
 
 /* END HEADER STYLING */
 
+/* TEMPORARILY SIZING IMAGES WITH PIXELS TO MAKE PAGE READABLE, EDIT LATER */
+.fire img{
+    width: 100px;
+    height: 100px;
+}
+.reserve img{
+    width: 100px;
+    height: 100px;
+}
+
+footer img{
+    width: 100px;
+    height: 100px;
+}
