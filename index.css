@@ -37,6 +37,12 @@ nav a{
     font-size: 15px;
 }
 
+nav a:hover{
+    transition: .5s;
+    color: black;
+    background: cornsilk;
+}
+
 .plan{
     background: #FF764E;
 }
